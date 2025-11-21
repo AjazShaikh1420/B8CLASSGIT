@@ -1,0 +1,2 @@
+This is sample file to merge in Master branch.
+Commit and push it to the main branch.
